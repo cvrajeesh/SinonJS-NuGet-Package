@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>SinonJS</id>
-        <version>1.7.3</version>
-        <authors>cvrajeesh</authors>
+        <version>1.9.0</version>
+        <authors>cvrajeesh, Almenit</authors>
         <projectUrl>http://sinonjs.org/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Standalone test spies, stubs and mocks for JavaScript. No dependencies, works with any unit testing framework.
@@ -12,8 +12,8 @@ Package version number is aligned with the SinonJS version numbering. Please sen
         <releaseNotes />
     </metadata>
     <files>
-        <file src="content\net\Scripts\sinon-1.7.3.js" target="content\net\Scripts\sinon-1.7.3.js" />
-        <file src="content\netcore45\Scripts\sinon-1.7.3.js" target="content\netcore45\Scripts\sinon-1.7.3.js" />
-        <file src="content\netcore451\Scripts\sinon-1.7.3.js" target="content\netcore451\Scripts\sinon-1.7.3.js" />
+        <file src="Content\Scripts\sinon.js" target="content\net\Scripts\sinon-1.9.0.js" />
+        <file src="Content\Scripts\sinon.js" target="content\netcore45\Scripts\sinon-1.9.0.js" />
+        <file src="Content\Scripts\sinon.js" target="content\netcore451\Scripts\sinon-1.9.0.js" />
     </files>
 </package>

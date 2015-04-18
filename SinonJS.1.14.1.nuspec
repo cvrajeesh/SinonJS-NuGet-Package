@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>SinonJS</id>
-        <version>1.9.1</version>
+        <version>1.14.1</version>
         <authors>cvrajeesh, Almenit</authors>
         <projectUrl>http://sinonjs.org/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -12,8 +12,8 @@ Package version number is aligned with the SinonJS version numbering. Please sen
         <releaseNotes />
     </metadata>
     <files>
-        <file src="Content\Scripts\sinon.js" target="content\net\Scripts\sinon-1.9.1.js" />
-        <file src="Content\Scripts\sinon.js" target="content\netcore45\Scripts\sinon-1.9.1.js" />
-        <file src="Content\Scripts\sinon.js" target="content\netcore451\Scripts\sinon-1.9.1.js" />
+        <file src="Content\Scripts\sinon.js" target="content\net\Scripts\sinon-1.14.1.js" />
+        <file src="Content\Scripts\sinon.js" target="content\netcore45\Scripts\sinon-1.14.1.js" />
+        <file src="Content\Scripts\sinon.js" target="content\netcore451\Scripts\sinon-1.14.1.js" />
     </files>
 </package>
